@@ -13,7 +13,7 @@ numwords = {
     "9":"nine"
 }
 calib_sum = 0
-debug = 0;
+debug = 0
 for line in calib_in:
     old_line = line
     r_replace = ("", 0)
